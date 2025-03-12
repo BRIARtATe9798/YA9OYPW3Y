@@ -79,7 +79,6 @@ The Best Practices for OSS Developers working group is dedicated to
 
 ## 5. Community Assets
 
-- a. The Linux Foundation will hold title to all trade or service marks used by the Technical Initiative ("Technical Initiative Trademarks"), whether based on common law or registered rights. Technical Initiative Trademarks may be transferred and assigned to LF Technical Initiatives to hold on behalf of the Technical Initiative. Any use of any Technical Initiative Trademarks by Collaborators in the Technical Initiative will be in accordance with the trademark usage policy of the Linux Foundation, available at [https://www.linuxfoundation.org/trademark-usage](https://www.linuxfoundation.org/trademark-usage/), and inure to the benefit of the Linux Foundation.
 
 - b. The Linux Foundation or Technical Initiative must own or control the repositories, social media accounts, and domain name registrations created for use by the Technical Initiative community.
 
