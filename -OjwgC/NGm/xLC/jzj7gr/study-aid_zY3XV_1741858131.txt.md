@@ -15,7 +15,6 @@ pip-compile - --output-file=- < requirements.in > requirements.txt
 
 To run unit tests:
 ```shell
-make test
 ```
 
 ### Manual tests
